@@ -30,6 +30,7 @@
 13a51485-6155-469e-9178-d5fa6004d33b oscar.esteban@calypso4:/tmp/oscar.esteban/bootstrap-fmriprep/4190_1/project/derivatives/fmriprep-25.2 timestamp=1771968994s
 13e68a96-fd1b-43ad-8478-922a8c529a49 oesteban@dna012:/tmp/59380012/oesteban/bootstrap-fmriprep/59380012_57/project/derivatives/fmriprep-25.2 timestamp=1772784816.733800269s
 145e9c02-e4a4-4e14-8b3a-89116946e8ca oscar.esteban@calypso3:/tmp/oscar.esteban/bootstrap-fmriprep/5341_30/project/derivatives/fmriprep-25.2 timestamp=1772074640s
+14c56b07-4fa5-4a58-b7a4-5979238c1e0f oesteban@dna078:/tmp/59438920/oesteban/bootstrap-fmriprep/59438920_527/project/derivatives/v1s2 timestamp=1773087476.270816034s
 150024ef-aacd-4588-a37c-65328f736428 oscar.esteban@calypso2:/tmp/oscar.esteban/bootstrap-fmriprep/7199_717/project/derivatives/fmriprep-25.2 timestamp=1772562655s
 150f72c4-f54a-4dde-b017-ff4538aad1a9 oesteban@dna044:/tmp/59398394/oesteban/bootstrap-fmriprep/59398394_168/project/derivatives/fmriprep-25.2 timestamp=1772816862.827753066s
 15563950-cfaf-433f-8bce-cda2f8ef0ca6 oesteban@dna024:/tmp/59392071/oesteban/bootstrap-fmriprep/59392071_127/project/derivatives/fmriprep-25.2 timestamp=1772803932.317419408s
@@ -71,11 +72,13 @@
 28e7371e-2e82-4722-82ce-102ee8e2ab92 oesteban@dna052:/tmp/59378692/oesteban/bootstrap-fmriprep/59378692_28/project/derivatives/fmriprep-25.2 timestamp=1772776261.031601177s
 290a7b51-396a-44e0-8626-cf4375c1b6a1 oesteban@dna063:/tmp/59395820/oesteban/bootstrap-fmriprep/59395820_155/project/derivatives/fmriprep-25.2 timestamp=1772810709.551197686s
 2936380c-ef3d-444a-8a77-0335ab8cbf3a oesteban@dna059:/tmp/59380009/oesteban/bootstrap-fmriprep/59380009_54/project/derivatives/fmriprep-25.2 timestamp=1772784816.40704668s
+29611d0e-fe3f-4a43-b53f-ccdc4e1405a8 oesteban@dna010:/tmp/59438941/oesteban/bootstrap-fmriprep/59438941_541/project/derivatives/v1s2 timestamp=1773088861.852387095s
 2b00e99e-ea5c-4ba3-848f-c17f03651ae7 oesteban@dna039:/tmp/59411318/oesteban/bootstrap-fmriprep/59411318_348/project/derivatives/fmriprep-25.2 timestamp=1772860724.601242821s
 2b0c7047-c43a-430b-bf59-941ab1b20c11 oesteban@dna039:/tmp/59391598/oesteban/bootstrap-fmriprep/59391598_123/project/derivatives/fmriprep-25.2 timestamp=1772803217.789091498s
 2b2175a8-7d1e-4f4c-a98f-00e6b27e1225 oesteban@dna075:/tmp/59380002/oesteban/bootstrap-fmriprep/59380002_47/project/derivatives/fmriprep-25.2 timestamp=1772784811.287636716s
 2b3bdcff-19f6-4e23-8206-1bd6e7fa7e57 oesteban@dna068:/tmp/59408636/oesteban/bootstrap-fmriprep/59408636_248/project/derivatives/fmriprep-25.2 timestamp=1772837895.492665431s
 2c409e21-a3af-43c0-aa87-458b166e4ac4 oesteban@dna082:/tmp/59404589/oesteban/bootstrap-fmriprep/59404589_204/project/derivatives/fmriprep-25.2 timestamp=1772826246.831614591s
+2c828adc-0908-49d9-a938-f158729416bf oesteban@dna062:/tmp/59438917/oesteban/bootstrap-fmriprep/59438917_525/project/derivatives/v1s2 timestamp=1773087324.754253831s
 2c92a488-1b2f-45aa-b6d9-48cd036581a4 oesteban@dna078:/tmp/59411067/oesteban/bootstrap-fmriprep/59411067_343/project/derivatives/fmriprep-25.2 timestamp=1772858910.789051243s
 2d489c2e-580b-44aa-823c-2b0bd5e75852 oesteban@dna032:/tmp/59373498/oesteban/bootstrap-fmriprep/59373498_7/project/derivatives/fmriprep-25.2 timestamp=1772753059.489908458s
 2d55ac55-4914-4d58-9178-104cb1ce0cab oesteban@dna024:/tmp/59403532/oesteban/bootstrap-fmriprep/59403532_177/project/derivatives/fmriprep-25.2 timestamp=1772818850.645104921s
@@ -124,6 +127,7 @@
 45ca858f-0bf8-44b2-b420-957c596a5fc8 oesteban@dna021:/tmp/59378709/oesteban/bootstrap-fmriprep/59378709_30/project/derivatives/fmriprep-25.2 timestamp=1772776396.815668705s
 4623c3fb-c1b0-4f2b-91de-b35b123735f7 oesteban@dna086:/tmp/59380004/oesteban/bootstrap-fmriprep/59380004_49/project/derivatives/fmriprep-25.2 timestamp=1772784813.694667342s
 463654a9-d24d-4aba-adbb-45808e3a3137 oscar.esteban@calypso8:/tmp/oscar.esteban/bootstrap-fmriprep/5313_3/project/derivatives/fmriprep-25.2 timestamp=1772002648s
+463ad202-1c89-4153-b3a7-5e63c4c7d5c5 oesteban@dna056:/tmp/59438954/oesteban/bootstrap-fmriprep/59438954_546/project/derivatives/v1s2 timestamp=1773091264.607314615s
 46dab277-2034-4c8f-951b-1f1b74a1f611 oscar.esteban@calypso2:/tmp/oscar.esteban/bootstrap-fmriprep/5336_25/project/derivatives/fmriprep-25.2 timestamp=1772061480s
 4867cb82-c851-4ffb-8764-00ba013f4579 oesteban@dna066:/tmp/59395308/oesteban/bootstrap-fmriprep/59395308_148/project/derivatives/fmriprep-25.2 timestamp=1772809414.695927139s
 499e2356-d07b-4a11-a2f9-7a8e7bec6921 oscar.esteban@calypso4:/tmp/oscar.esteban/bootstrap-fmriprep/5323_12/project/derivatives/fmriprep-25.2 timestamp=1772021166s
@@ -136,6 +140,7 @@
 4a97ea38-f609-41a6-a340-cf03b6dda107 oesteban@dna008:/tmp/59380010/oesteban/bootstrap-fmriprep/59380010_55/project/derivatives/fmriprep-25.2 timestamp=1772784817.932674164s
 4b23b029-33a9-4a96-9017-e58ba08b3bed oscar.esteban@calypso1:/tmp/oscar.esteban/bootstrap-fmriprep/5325_14/project/derivatives/fmriprep-25.2 timestamp=1772035854s
 4b4167e1-7b2b-4d11-ac61-c562130aa70c oesteban@dna070:/tmp/59380001/oesteban/bootstrap-fmriprep/59380001_46/project/derivatives/fmriprep-25.2 timestamp=1772784811.430062159s
+4bd47c5e-d047-41fc-b865-1b2a33560bba oesteban@dna060:/tmp/59438932/oesteban/bootstrap-fmriprep/59438932_534/project/derivatives/v1s2 timestamp=1773088130.523935855s
 4c46bc36-2219-4845-bbdf-52b8aab2e723 oesteban@dna030:/tmp/59385063/oesteban/bootstrap-fmriprep/59385063_91/project/derivatives/fmriprep-25.2 timestamp=1772795913.904646422s
 4c847634-b23e-44d6-a518-880f8d34d322 oesteban@dna063:/tmp/59383357/oesteban/bootstrap-fmriprep/59383357_77/project/derivatives/fmriprep-25.2 timestamp=1772791710.498811776s
 4ca3c955-45f9-4632-b77b-8d41fbdffa7e oesteban@dna032:/tmp/59384283/oesteban/bootstrap-fmriprep/59384283_88/project/derivatives/fmriprep-25.2 timestamp=1772794203.468170737s
@@ -144,6 +149,7 @@
 4d2de43f-abfe-4742-9ee3-3b8906abc63d oscar.esteban@calypso2:/tmp/oscar.esteban/bootstrap-fmriprep/4184_3/project/derivatives/fmriprep-25.2 timestamp=1771866427s
 4e4a9da4-ce2e-4fd0-890c-bd7567b54821 oesteban@dna028:/tmp/59410639/oesteban/bootstrap-fmriprep/59410639_318/project/derivatives/fmriprep-25.2 timestamp=1772853070.389556275s
 4e57361b-79b3-4fcd-8ffa-26cf446b3368 oesteban@dna028:/tmp/59407451/oesteban/bootstrap-fmriprep/59407451_231/project/derivatives/fmriprep-25.2 timestamp=1772834520.038904242s
+4e803675-8557-4934-afc1-40addc353d93 oesteban@dna086:/tmp/59438918/oesteban/bootstrap-fmriprep/59438918_526/project/derivatives/v1s2 timestamp=1773087417.5415904s
 4ea2a9d1-1ce1-49d9-8f35-7f514efa9284 oesteban@dna021:/tmp/59408090/oesteban/bootstrap-fmriprep/59408090_239/project/derivatives/fmriprep-25.2 timestamp=1772836323.494028789s
 4ea8f9bc-78a0-43e8-a5c8-ecfb34479aa0 oscar.esteban@calypso6:/tmp/oscar.esteban/bootstrap-fmriprep/5340_29/project/derivatives/fmriprep-25.2 timestamp=1772074081s
 4ee482fa-cc24-4c01-ab27-3dcda7337b4b oscar.esteban@calypso8:/tmp/oscar.esteban/bootstrap-fmriprep/5326_15/project/derivatives/fmriprep-25.2 timestamp=1772035948s
@@ -171,6 +177,7 @@
 5a1a7d7f-9c64-4034-9179-5d63b64a6d95 oesteban@dna042:/tmp/59407448/oesteban/bootstrap-fmriprep/59407448_230/project/derivatives/fmriprep-25.2 timestamp=1772834493.32608336s
 5a9c4774-35c4-44f6-afc7-765b315d24c2 oesteban@dna061:/tmp/59404220/oesteban/bootstrap-fmriprep/59404220_195/project/derivatives/fmriprep-25.2 timestamp=1772824669.307474904s
 5ab5772e-de6e-4894-845a-407ed7e57480 oesteban@dna042:/tmp/59410468/oesteban/bootstrap-fmriprep/59410468_298/project/derivatives/fmriprep-25.2 timestamp=1772849532.822051976s
+5acaa86c-49cb-4faf-a857-a4ff377d94ae oesteban@dna078:/tmp/59438940/oesteban/bootstrap-fmriprep/59438940_540/project/derivatives/v1s2 timestamp=1773088731.981120532s
 5add6d2a-3200-400a-8c1c-b9e9db52176b oesteban@dna044:/tmp/59378270/oesteban/bootstrap-fmriprep/59378270_9/project/derivatives/fmriprep-25.2 timestamp=1772773679.025953911s
 5aecffa3-1428-4b25-85f8-62ee010de25a oesteban@dna032:/tmp/59395224/oesteban/bootstrap-fmriprep/59395224_145/project/derivatives/fmriprep-25.2 timestamp=1772809107.942558997s
 5af6a7c0-1767-4a1a-a394-5fad814f64a4 oesteban@dna042:/tmp/59378443/oesteban/bootstrap-fmriprep/59378443_19/project/derivatives/fmriprep-25.2 timestamp=1772774757.231888054s
@@ -187,6 +194,8 @@
 625b0cad-6f94-4609-9623-707c6d2b40cc oesteban@dna082:/tmp/59380824/oesteban/bootstrap-fmriprep/59380824_64/project/derivatives/fmriprep-25.2 timestamp=1772787871.040576824s
 635187d7-5994-43bd-a435-664778b7a91c oesteban@dna020:/tmp/59403626/oesteban/bootstrap-fmriprep/59403626_183/project/derivatives/fmriprep-25.2 timestamp=1772820014.857380545s
 638f48e2-ca6b-4594-a32f-57b57944f215 oesteban@dna024:/tmp/59404450/oesteban/bootstrap-fmriprep/59404450_199/project/derivatives/fmriprep-25.2 timestamp=1772825643.787417074s
+63a3e1d2-a503-40d8-82bb-e18a189ff216 oesteban@dna060:/tmp/59438933/oesteban/bootstrap-fmriprep/59438933_535/project/derivatives/v1s2 timestamp=1773088130.724277124s
+63afb5ba-756b-4c94-a07b-83e5015be61b oesteban@dna049:/tmp/59438929/oesteban/bootstrap-fmriprep/59438929_532/project/derivatives/v1s2 timestamp=1773087959.680964162s
 646f8658-e047-4eab-8bfb-aab31331792f oscar.esteban@calypso3:/tmp/oscar.esteban/bootstrap-fmriprep/5317_7/project/derivatives/fmriprep-25.2 timestamp=1772002657s
 659645bf-28f4-4ca8-8216-30a7ea97ebd7 oesteban@dna045:/tmp/59403657/oesteban/bootstrap-fmriprep/59403657_184/project/derivatives/fmriprep-25.2 timestamp=1772820383.506872845s
 66b58652-7f87-4e16-94e9-2486ae6c99e9 oesteban@dna007:/tmp/59409693/oesteban/bootstrap-fmriprep/59409693_258/project/derivatives/fmriprep-25.2 timestamp=1772840142.580124581s
@@ -215,6 +224,7 @@
 732ffb4c-fe20-4568-b0c3-0bb7d590982a oesteban@dna052:/tmp/59394402/oesteban/bootstrap-fmriprep/59394402_130/project/derivatives/fmriprep-25.2 timestamp=1772806420.795973654s
 73ecf4c1-341c-4bef-975e-9fada28d4dbe oesteban@dna047:/tmp/59395755/oesteban/bootstrap-fmriprep/59395755_154/project/derivatives/fmriprep-25.2 timestamp=1772810528.698383524s
 74b7641d-66a0-452e-80c4-4fc99c90c6d4 oesteban@dna044:/tmp/59380486/oesteban/bootstrap-fmriprep/59380486_59/project/derivatives/fmriprep-25.2 timestamp=1772787032.480366818s
+74bb925d-dfbd-46d7-a1fd-a4fa68df53e9 git@0cf3a9a26dcd:/data/repos/abide-fmriprep/v1s2.git timestamp=1773087228.878825902s
 7542e3e3-0d51-4d9e-8d7a-b4ad5fdc5b8c oesteban@dna028:/tmp/59411327/oesteban/bootstrap-fmriprep/59411327_352/project/derivatives/fmriprep-25.2 timestamp=1772861253.869841713s
 755ed6d4-a5e4-4302-909f-f05d34b24713 oesteban@dna082:/tmp/59397077/oesteban/bootstrap-fmriprep/59397077_161/project/derivatives/fmriprep-25.2 timestamp=1772813389.537466764s
 76504aa4-961b-4c48-928f-0aaf8c29b25c oesteban@dna024:/tmp/59378265/oesteban/bootstrap-fmriprep/59378265_4/project/derivatives/fmriprep-25.2 timestamp=1772773674.522430921s
@@ -243,6 +253,7 @@
 7d79dc39-7139-4cd1-8317-7fac87025207 oesteban@dna028:/tmp/59411443/oesteban/bootstrap-fmriprep/59411443_371/project/derivatives/fmriprep-25.2 timestamp=1772866455.900284581s
 7e1d4a4c-2e08-4aa3-9dcc-428748b27699 oscar.esteban@calypso4:/tmp/oscar.esteban/bootstrap-fmriprep/7208_726/project/derivatives/fmriprep-25.2 timestamp=1772564017s
 7e4643fc-515f-4eb5-b458-aefd66d4990b oesteban@dna044:/tmp/59390872/oesteban/bootstrap-fmriprep/59390872_114/project/derivatives/fmriprep-25.2 timestamp=1772802170.633452141s
+7f1b2c1c-466d-473f-bf3a-c28b07ab0e62 oesteban@dna049:/tmp/59438938/oesteban/bootstrap-fmriprep/59438938_538/project/derivatives/v1s2 timestamp=1773088577.397289769s
 7f84c1a7-a537-42e3-b50f-2d7dc2377a4e oscar.esteban@calypso1:/tmp/oscar.esteban/bootstrap-fmriprep/7113_631/project/derivatives/fmriprep-25.2 timestamp=1772545653s
 804b38c8-b03a-4659-abe7-361723ee8e8c oesteban@dna021:/tmp/59382605/oesteban/bootstrap-fmriprep/59382605_73/project/derivatives/fmriprep-25.2 timestamp=1772790781.544041755s
 807c6469-3ce4-4856-8767-0a6956f43239 oscar.esteban@calypso2:/tmp/oscar.esteban/bootstrap-fmriprep/5343_32/project/derivatives/fmriprep-25.2 timestamp=1772082546s
@@ -255,6 +266,7 @@
 831c7950-6b09-40f1-9359-75fcb5cfb591 oesteban@dna080:/tmp/59411061/oesteban/bootstrap-fmriprep/59411061_342/project/derivatives/fmriprep-25.2 timestamp=1772858806.707386585s
 8367d4a0-810b-45ee-a49a-2ba5983459f4 oesteban@dna078:/tmp/59391591/oesteban/bootstrap-fmriprep/59391591_122/project/derivatives/fmriprep-25.2 timestamp=1772803176.510901031s
 84368be5-0cf8-4040-b330-33bfc83de4ac oesteban@dna082:/tmp/59395255/oesteban/bootstrap-fmriprep/59395255_147/project/derivatives/fmriprep-25.2 timestamp=1772809192.240661202s
+844e9526-68a4-4af8-a160-45e5c9cd9bdd oesteban@dna044:/tmp/59438925/oesteban/bootstrap-fmriprep/59438925_529/project/derivatives/v1s2 timestamp=1773087797.683894162s
 8507fc07-5c14-49b4-a9ef-6aaee2644877 oesteban@dna082:/tmp/59378352/oesteban/bootstrap-fmriprep/59378352_14/project/derivatives/fmriprep-25.2 timestamp=1772774260.416647804s
 855f1698-e866-4516-a390-d70108d1378a oesteban@dna023:/tmp/59381037/oesteban/bootstrap-fmriprep/59381037_65/project/derivatives/fmriprep-25.2 timestamp=1772788302.123215686s
 85cda387-21db-4ce8-bcfc-3792391d21cb oesteban@dna063:/tmp/59394438/oesteban/bootstrap-fmriprep/59394438_131/project/derivatives/fmriprep-25.2 timestamp=1772806506.225963663s
@@ -268,6 +280,7 @@
 88a7cc29-015b-4d83-97de-131f13f14ec4 oscar.esteban@calypso6:/tmp/oscar.esteban/bootstrap-fmriprep/6911_429/project/derivatives/fmriprep-25.2 timestamp=1772506364s
 8a0d69d6-fba6-4f37-a09f-dbe54ccb03f0 oesteban@dna023:/tmp/59381344/oesteban/bootstrap-fmriprep/59381344_70/project/derivatives/fmriprep-25.2 timestamp=1772789241.56999049s
 8a1c89c6-6f40-4f43-b6f7-f990b9e869c9 oesteban@dna020:/tmp/59411356/oesteban/bootstrap-fmriprep/59411356_355/project/derivatives/fmriprep-25.2 timestamp=1772863193.388978821s
+8a3515fb-8f36-48c3-9bf9-8a5a8c523fc6 oesteban@dna029:/tmp/59438944/oesteban/bootstrap-fmriprep/59438944_544/project/derivatives/v1s2 timestamp=1773089332.248523385s
 8affa19b-82bd-4af1-b528-97e0ebc6f4c3 oesteban@dna085:/tmp/59411452/oesteban/bootstrap-fmriprep/59411452_372/project/derivatives/fmriprep-25.2 timestamp=1772866750.908612567s
 8b734198-593e-42a8-80c2-f11630a29b23 oesteban@dna007:/tmp/59378942/oesteban/bootstrap-fmriprep/59378942_35/project/derivatives/fmriprep-25.2 timestamp=1772777631.389932275s
 8da24154-f353-49c1-89b4-d3c7f9268acf oscar.esteban@calypso3:/tmp/oscar.esteban/bootstrap-fmriprep/6485_4/project/derivatives/fmriprep-25.2 timestamp=1772450876s
@@ -338,6 +351,7 @@ afd07763-abb4-4615-ac99-b159ae53af70 oesteban@dna063:/tmp/59378926/oesteban/boot
 aff28dd5-e954-41e3-b382-242699a3157e oscar.esteban@calypso3:/tmp/oscar.esteban/bootstrap-fmriprep/5320_9/project/derivatives/fmriprep-25.2 timestamp=1772019927s
 b0dcdfa3-3c55-4488-a533-1455cb3c87df oesteban@dna047:/tmp/59410695/oesteban/bootstrap-fmriprep/59410695_328/project/derivatives/fmriprep-25.2 timestamp=1772854645.983271559s
 b2d4a193-08bb-4b3d-b4c8-2e2dbeef2fb8 oesteban@dna047:/tmp/59404272/oesteban/bootstrap-fmriprep/59404272_198/project/derivatives/fmriprep-25.2 timestamp=1772824943.244098757s
+b3168465-33be-4d49-a25c-c89857d9ff15 oesteban@dna075:/tmp/59438926/oesteban/bootstrap-fmriprep/59438926_530/project/derivatives/v1s2 timestamp=1773087887.82825248s
 b337082f-e4ba-4e2a-9dc2-4302f8ad5fad oesteban@dna061:/tmp/59410028/oesteban/bootstrap-fmriprep/59410028_267/project/derivatives/fmriprep-25.2 timestamp=1772842077.162881254s
 b489ef8a-e557-43c8-bf31-59571b1eecd3 oesteban@dna023:/tmp/59391515/oesteban/bootstrap-fmriprep/59391515_120/project/derivatives/fmriprep-25.2 timestamp=1772802909.571771139s
 b4ee369f-a332-4eff-a856-249b8d7e3404 oesteban@dna023:/tmp/59379884/oesteban/bootstrap-fmriprep/59379884_44/project/derivatives/fmriprep-25.2 timestamp=1772784555.356817841s
@@ -353,6 +367,7 @@ b8539fdd-8444-4c9b-9749-74ad0ae72fdd oesteban@dna032:/tmp/59378339/oesteban/boot
 b90176f2-99de-4f22-a86b-af43934ab4a1 oesteban@dna066:/tmp/59394918/oesteban/bootstrap-fmriprep/59394918_135/project/derivatives/fmriprep-25.2 timestamp=1772807678.447529805s
 b9ed64fa-1dfc-403e-ba79-9425e87dfc56 oesteban@dna061:/tmp/59409813/oesteban/bootstrap-fmriprep/59409813_261/project/derivatives/fmriprep-25.2 timestamp=1772840537.031541059s
 ba6bd299-02c8-4355-ae6c-19185543225f oesteban@dna079:/tmp/59410658/oesteban/bootstrap-fmriprep/59410658_321/project/derivatives/fmriprep-25.2 timestamp=1772853774.327736728s
+bad5f95a-9393-4dae-afd8-e18e43a5d66f oesteban@dna006:/tmp/59438939/oesteban/bootstrap-fmriprep/59438939_539/project/derivatives/v1s2 timestamp=1773088637.865286594s
 bb520f42-3922-4729-8727-b4a80439d812 oesteban@dna024:/tmp/59398379/oesteban/bootstrap-fmriprep/59398379_167/project/derivatives/fmriprep-25.2 timestamp=1772816832.387353566s
 bb7ca48d-c19c-4d33-b1b4-0dd608dcb314 oesteban@dna021:/tmp/59378305/oesteban/bootstrap-fmriprep/59378305_10/project/derivatives/fmriprep-25.2 timestamp=1772773895.938343233s
 bb83a6b9-1100-464d-8233-92fe9c2375eb oesteban@dna077:/tmp/59380003/oesteban/bootstrap-fmriprep/59380003_48/project/derivatives/fmriprep-25.2 timestamp=1772784815.311812507s
@@ -362,6 +377,7 @@ beb8d099-0be4-4c44-9a2a-10999b8b1b2d oesteban@dna018:/tmp/59406907/oesteban/boot
 bf5498dd-2130-48c5-9559-0d956bb4cd4a oesteban@dna052:/tmp/59410425/oesteban/bootstrap-fmriprep/59410425_293/project/derivatives/fmriprep-25.2 timestamp=1772848780.924499175s
 bf6bb879-36d1-4e4e-96b0-c3055f255428 oscar.esteban@calypso1:/tmp/oscar.esteban/bootstrap-fmriprep/7392_910/project/derivatives/fmriprep-25.2 timestamp=1772600161s
 bff3cfcd-443f-4a65-aa7f-382b53048584 oscar.esteban@calypso2:/tmp/oscar.esteban/bootstrap-fmriprep/4192_3/project/derivatives/fmriprep-25.2 timestamp=1771968995s
+c04ec0cb-bc6d-4fc2-80ad-28d212b8907c oesteban@dna063:/tmp/59438956/oesteban/bootstrap-fmriprep/59438956_548/project/derivatives/v1s2 timestamp=1773091479.915659537s
 c0bad80c-2b89-404c-b0ab-32e96c4c0695 oscar.esteban@calypso2:/tmp/oscar.esteban/bootstrap-fmriprep/7000_518/project/derivatives/fmriprep-25.2 timestamp=1772524185s
 c0dac272-c3d5-4446-b7e0-704700ff71b4 oesteban@dna058:/tmp/59410973/oesteban/bootstrap-fmriprep/59410973_339/project/derivatives/fmriprep-25.2 timestamp=1772857745.580385783s
 c0e1459b-49da-4e01-bfd9-5d8216ce26a0 oesteban@dna054:/tmp/59410668/oesteban/bootstrap-fmriprep/59410668_323/project/derivatives/fmriprep-25.2 timestamp=1772853942.288285575s
@@ -374,9 +390,11 @@ c3b1ccf7-8d12-477f-82c3-3620bae28759 oscar.esteban@calypso5:/tmp/oscar.esteban/t
 c445ca57-574c-465b-96cb-a8c58a4ed95c oscar.esteban@calypso6:/tmp/oscar.esteban/bootstrap-fmriprep/6672_190/project/derivatives/fmriprep-25.2 timestamp=1772470490s
 c4770fbc-dc1f-4537-90da-6040bfae0ba0 oscar.esteban@calypso2:/tmp/oscar.esteban/bootstrap-fmriprep/5316_6/project/derivatives/fmriprep-25.2 timestamp=1772002643s
 c5cf881e-b523-440c-8863-0eb109bc23ab oesteban@dna063:/tmp/59406536/oesteban/bootstrap-fmriprep/59406536_223/project/derivatives/fmriprep-25.2 timestamp=1772832782.932280654s
+c5eded3f-1349-4c56-8372-f4b55750002b oesteban@dna063:/tmp/59438935/oesteban/bootstrap-fmriprep/59438935_536/project/derivatives/v1s2 timestamp=1773088458.667073055s
 c5efe339-437c-477b-9690-4ad05abb549d oscar.esteban@calypso3:/tmp/oscar.esteban/bootstrap-fmriprep/6680_198/project/derivatives/fmriprep-25.2 timestamp=1772471250s
 c60adb4e-a353-48f4-a424-9c2e8cc7258c oesteban@dna041:/tmp/59411049/oesteban/bootstrap-fmriprep/59411049_341/project/derivatives/fmriprep-25.2 timestamp=1772858393.471868933s
 c641d77f-4643-4878-8643-7d530e2fe223 oscar.esteban@calypso6:/tmp/oscar.esteban/bootstrap-fmriprep/7034_552/project/derivatives/fmriprep-25.2 timestamp=1772530548s
+c69a0597-d492-4aec-b70f-be32a82d828a oesteban@dna065:/tmp/59438952/oesteban/bootstrap-fmriprep/59438952_545/project/derivatives/v1s2 timestamp=1773091141.13184939s
 c7ff9efe-66d1-453e-98e1-ecd30c597592 oesteban@dna018:/tmp/59411467/oesteban/bootstrap-fmriprep/59411467_373/project/derivatives/fmriprep-25.2 timestamp=1772867262.557079006s
 c89b0050-9936-4791-9df8-c457ba676478 oesteban@dna024:/tmp/59411355/oesteban/bootstrap-fmriprep/59411355_354/project/derivatives/fmriprep-25.2 timestamp=1772863051.207655358s
 c89d4741-369d-41be-af0a-e07a7cb36f18 oesteban@dna004:/tmp/59386605/oesteban/bootstrap-fmriprep/59386605_104/project/derivatives/fmriprep-25.2 timestamp=1772798537.024861916s
@@ -392,6 +410,7 @@ cb8212f0-9a56-4b8c-bf91-163c30dae1d5 oesteban@dna018:/tmp/59396161/oesteban/boot
 cbdcdef8-4715-4784-95df-d226e943aeec oesteban@dna018:/tmp/59411429/oesteban/bootstrap-fmriprep/59411429_370/project/derivatives/fmriprep-25.2 timestamp=1772866063.777586003s
 cc21b8ac-03dc-41a4-99fb-ec6bae056e1b oesteban@dna023:/tmp/59411395/oesteban/bootstrap-fmriprep/59411395_365/project/derivatives/fmriprep-25.2 timestamp=1772864850.273962682s
 cc4ad259-4dbf-4cc6-a3bb-7637a5937ea4 oesteban@dna018:/tmp/59404007/oesteban/bootstrap-fmriprep/59404007_190/project/derivatives/fmriprep-25.2 timestamp=1772823165.446299044s
+cd10c33d-2f68-4fcc-986e-f5ac29680a77 oesteban@dna025:/tmp/59438923/oesteban/bootstrap-fmriprep/59438923_528/project/derivatives/v1s2 timestamp=1773087766.545051127s
 cd7c2ab9-4a7b-4ef3-9068-cc6a324cd346 oesteban@dna050:/tmp/59390963/oesteban/bootstrap-fmriprep/59390963_118/project/derivatives/fmriprep-25.2 timestamp=1772802359.102070193s
 ceac789f-18f0-4da2-a8e3-46d913625688 oesteban@dna052:/tmp/59405248/oesteban/bootstrap-fmriprep/59405248_210/project/derivatives/fmriprep-25.2 timestamp=1772828561.775152932s
 cf69b4c0-874a-421d-9529-9b98b78dd9b9 oesteban@dna020:/tmp/59391423/oesteban/bootstrap-fmriprep/59391423_119/project/derivatives/fmriprep-25.2 timestamp=1772802634.678960889s
@@ -401,10 +420,13 @@ d16db4a4-c3e2-4e29-9e0e-deb22a66a402 oscar.esteban@calypso5:/tmp/oscar.esteban/b
 d1a18509-49cd-4882-8641-5759dcef213a oesteban@dna063:/tmp/59404944/oesteban/bootstrap-fmriprep/59404944_208/project/derivatives/fmriprep-25.2 timestamp=1772827259.160175353s
 d22d611f-07e4-4ca6-9264-789fdb96c110 oesteban@dna082:/tmp/59408950/oesteban/bootstrap-fmriprep/59408950_255/project/derivatives/fmriprep-25.2 timestamp=1772838468.114652377s
 d2fba6c5-a773-4f43-b483-75ca4983897f oesteban@dna082:/tmp/59404577/oesteban/bootstrap-fmriprep/59404577_203/project/derivatives/fmriprep-25.2 timestamp=1772826164.766694174s
+d35f6c2c-031f-416a-a80b-69e91a39b583 oesteban@dna011:/tmp/59438916/oesteban/bootstrap-fmriprep/59438916_524/project/derivatives/v1s2 timestamp=1773087236.068183546s
 d3b940ce-ca76-4bdf-841c-28d95023237b oesteban@dna044:/tmp/59398281/oesteban/bootstrap-fmriprep/59398281_166/project/derivatives/fmriprep-25.2 timestamp=1772816406.893949741s
 d3e33597-2ac3-4674-967d-54b8376e5366 oesteban@dna020:/tmp/59378669/oesteban/bootstrap-fmriprep/59378669_27/project/derivatives/fmriprep-25.2 timestamp=1772776020.589831631s
 d44ab23d-b714-4003-aa8f-65b99928cf7c oesteban@dna078:/tmp/59410644/oesteban/bootstrap-fmriprep/59410644_320/project/derivatives/fmriprep-25.2 timestamp=1772853391.651606664s
 d5267474-4c4b-4a99-9c2a-a1426359ac1c oesteban@dna030:/tmp/59373368/oesteban/bootstrap-fmriprep/59373368_4/project/derivatives/fmriprep-25.2 timestamp=1772752078.968503086s
+d5636312-f203-4473-9820-b7855ab70bc6 oesteban@dna063:/tmp/59438942/oesteban/bootstrap-fmriprep/59438942_542/project/derivatives/v1s2 timestamp=1773088907.343412697s
+d5d3a19e-9660-4741-88c4-b0aacaf21769 oesteban@dna029:/tmp/59438936/oesteban/bootstrap-fmriprep/59438936_537/project/derivatives/v1s2 timestamp=1773088531.672229114s
 d5fb9e0d-001d-463c-9115-38e3d70e7177 oesteban@dna007:/tmp/59395195/oesteban/bootstrap-fmriprep/59395195_143/project/derivatives/fmriprep-25.2 timestamp=1772808983.58117353s
 d70cff55-9b76-496f-b3a8-8fc13a67c79f oesteban@dna054:/tmp/59408714/oesteban/bootstrap-fmriprep/59408714_251/project/derivatives/fmriprep-25.2 timestamp=1772838114.192537986s
 d72b3ea0-9528-4273-aea9-6feb64aeedc0 oesteban@dna007:/tmp/59410714/oesteban/bootstrap-fmriprep/59410714_330/project/derivatives/fmriprep-25.2 timestamp=1772855122.507205311s
@@ -413,13 +435,16 @@ da78060a-2e01-40b9-83f6-35e89e8c0690 oesteban@dna047:/tmp/59410623/oesteban/boot
 daa03fb6-8fca-4413-9bec-6fccbbf58505 oscar.esteban@calypso4:/tmp/oscar.esteban/bootstrap-fmriprep/6906_424/project/derivatives/fmriprep-25.2 timestamp=1772505943s
 dac9a391-9f08-4e92-974a-956bb07250a9 oscar.esteban@calypso4:/tmp/oscar.esteban/bootstrap-fmriprep/7408_926/project/derivatives/fmriprep-25.2 timestamp=1772602999s
 dba7f6e1-b222-4e4b-bd15-57c21f661c95 oesteban@dna032:/tmp/59395236/oesteban/bootstrap-fmriprep/59395236_146/project/derivatives/fmriprep-25.2 timestamp=1772809144.102763485s
+dc010213-0f6d-4578-9a85-3f36afc8fe8e oesteban@dna060:/tmp/59438927/oesteban/bootstrap-fmriprep/59438927_531/project/derivatives/v1s2 timestamp=1773087929.990064441s
 dc804563-d60c-47c3-a279-83d8e61feb6b oesteban@dna018:/tmp/59394949/oesteban/bootstrap-fmriprep/59394949_136/project/derivatives/fmriprep-25.2 timestamp=1772807894.895542636s
 dcdc76e3-539d-4aca-b783-10dd36040890 oesteban@dna058:/tmp/59407737/oesteban/bootstrap-fmriprep/59407737_233/project/derivatives/fmriprep-25.2 timestamp=1772835192.055757263s
 dd37712d-9928-4dbd-8b7e-0ade40a509fd oesteban@dna063:/tmp/59384292/oesteban/bootstrap-fmriprep/59384292_89/project/derivatives/fmriprep-25.2 timestamp=1772794235.952073274s
+ddc5c47a-71a2-4959-bec2-dce35d5139b5 oesteban@dna023:/tmp/59438915/oesteban/bootstrap-fmriprep/59438915_523/project/derivatives/v1s2 timestamp=1773087227.072517263s
 dde831d3-a877-453d-8cee-b6357a19db46 oesteban@dna044:/tmp/59391957/oesteban/bootstrap-fmriprep/59391957_126/project/derivatives/fmriprep-25.2 timestamp=1772803781.333294934s
 de2e22f4-0800-4660-83f9-ae4622bbeef8 oesteban@dna030:/tmp/59409880/oesteban/bootstrap-fmriprep/59409880_264/project/derivatives/fmriprep-25.2 timestamp=1772840930.577687855s
 de87ef55-7965-4977-aba7-0648285184e3 oesteban@dna082:/tmp/59410420/oesteban/bootstrap-fmriprep/59410420_292/project/derivatives/fmriprep-25.2 timestamp=1772848528.451232992s
 dece84cb-1879-48c0-965e-f888992d4982 oesteban@dna042:/tmp/59403528/oesteban/bootstrap-fmriprep/59403528_176/project/derivatives/fmriprep-25.2 timestamp=1772818765.170693661s
+df3623e4-291e-4fe5-b7d0-e71b6f5f6e55 oesteban@dna056:/tmp/59438943/oesteban/bootstrap-fmriprep/59438943_543/project/derivatives/v1s2 timestamp=1773089321.586573943s
 e13f07aa-8139-44a1-aba4-051903043e03 oesteban@dna043:/tmp/59411378/oesteban/bootstrap-fmriprep/59411378_359/project/derivatives/fmriprep-25.2 timestamp=1772864037.451100798s
 e150841a-a66e-448f-8d0a-e63ddf83a80e oesteban@dna008:/tmp/59410619/oesteban/bootstrap-fmriprep/59410619_316/project/derivatives/fmriprep-25.2 timestamp=1772852627.965354564s
 e1ca85a3-d96a-4bd5-ab29-5407f2781b2e oesteban@dna028:/tmp/59403521/oesteban/bootstrap-fmriprep/59403521_174/project/derivatives/fmriprep-25.2 timestamp=1772818512.448309638s
@@ -445,6 +470,7 @@ ecaa3803-f224-4401-b893-df53ec632805 oesteban@dna028:/tmp/59381178/oesteban/boot
 ed297675-77ce-42da-b034-c2861f0e1d8b oesteban@soma.local:~/workspace/abide_preproc/derivatives/fmriprep-25.2 timestamp=1770199600s
 ed46c25a-7382-4263-8585-f06c9c7440d1 oesteban@dna024:/tmp/59409814/oesteban/bootstrap-fmriprep/59409814_262/project/derivatives/fmriprep-25.2 timestamp=1772840535.477386419s
 ee7d0c4f-6d96-444b-ae6c-9bfdecd7d2e4 oesteban@dna044:/tmp/59411326/oesteban/bootstrap-fmriprep/59411326_351/project/derivatives/fmriprep-25.2 timestamp=1772861044.829725998s
+eeb90821-c925-4278-956b-2df8595381f3 oesteban@dna013:/tmp/59438930/oesteban/bootstrap-fmriprep/59438930_533/project/derivatives/v1s2 timestamp=1773088069.055580407s
 eee1c435-cf6a-4237-8c23-28b648c6dc71 oesteban@dna020:/tmp/59403916/oesteban/bootstrap-fmriprep/59403916_189/project/derivatives/fmriprep-25.2 timestamp=1772822885.792935974s
 ef0f234c-9058-4323-bdaf-84863e0e107d oesteban@dna052:/tmp/59397178/oesteban/bootstrap-fmriprep/59397178_162/project/derivatives/fmriprep-25.2 timestamp=1772814032.91190673s
 ef0f9f13-211b-4c0f-9a91-e88efe5ae471 oscar.esteban@calypso4:/tmp/oscar.esteban/bootstrap-fmriprep/5342_31/project/derivatives/fmriprep-25.2 timestamp=1772079138s
@@ -462,6 +488,7 @@ f5bb5d42-85e6-44ed-95da-9392fdd4bcff oesteban@dna058:/tmp/59410733/oesteban/boot
 f5ff39af-72cc-405b-9c45-648798ffdfdd oesteban@dna007:/tmp/59404054/oesteban/bootstrap-fmriprep/59404054_191/project/derivatives/fmriprep-25.2 timestamp=1772823567.903562564s
 f7db20c1-14d5-4339-920b-be7b870cb3d7 oesteban@dna018:/tmp/59384193/oesteban/bootstrap-fmriprep/59384193_85/project/derivatives/fmriprep-25.2 timestamp=1772793961.772583537s
 f8ad3480-ccdc-474c-9659-3524da9fd73d oesteban@dna021:/tmp/59410435/oesteban/bootstrap-fmriprep/59410435_294/project/derivatives/fmriprep-25.2 timestamp=1772848997.023017089s
+f8b4d695-8391-4ea9-a72b-ad61a6a5a7f1 oesteban@dna062:/tmp/59438955/oesteban/bootstrap-fmriprep/59438955_547/project/derivatives/v1s2 timestamp=1773091331.742577173s
 f93681e8-ee31-4153-8471-c91c1ff638f5 oesteban@dna078:/tmp/59373312/oesteban/bootstrap-fmriprep/59373312_1/project/derivatives/fmriprep-25.2 timestamp=1772750741.812088827s
 f9421aba-44fc-472e-a572-83bdd2bcf7c6 oesteban@dna020:/tmp/59410642/oesteban/bootstrap-fmriprep/59410642_319/project/derivatives/fmriprep-25.2 timestamp=1772853311.440844383s
 f9b45c5d-ae17-4a54-b1e4-a555ee4f437f oesteban@dna007:/tmp/59410606/oesteban/bootstrap-fmriprep/59410606_312/project/derivatives/fmriprep-25.2 timestamp=1772852038.400531264s
